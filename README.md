@@ -9,3 +9,8 @@ git clone https://github.com/esperime/dotfiles-hyprland.git
 cd hyprbasic
 ./install.sh
 ```
+
+# Screenshots
+|Lockscreen|Homescreen|
+|:---|:---|
+|<img src="images/screenshots/lockscreen.png" alt="image">|<img src="images/screenshots/homescreen.png" alt="image">|
