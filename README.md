@@ -15,7 +15,5 @@ cd dotfiles-hyprland
 ./install.sh
 ```
 
-# Screenshots
-|Lockscreen|Homescreen|
-|:---|:---|
-|<img src="images/screenshots/lockscreen.png" alt="image">|<img src="images/screenshots/home.png" alt="image">|
+# Screenshot
+<img src="images/screenshots/showcase.png" alt="image">
