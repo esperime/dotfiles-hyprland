@@ -8,7 +8,7 @@ cd dotfiles-hyprland
 ```
 
 # Usage
-`SUPER + ENTER` - Launch Terminal emulator
+`SUPER + RETURN` - Launch Terminal emulator
 
 `SUPER + D` - Launch Fuzzel
 
@@ -16,7 +16,7 @@ cd dotfiles-hyprland
 
 `SUPER + Q` - Quit / Exit
 
-`SUPER + L` - Lock screen
+`SUPER + L` - Launch logout menu
 
 `PRINT` - Capture a window
 
