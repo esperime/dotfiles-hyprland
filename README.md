@@ -1,11 +1,12 @@
-<h1 align="center">【 Hyprcozy 】</h1>
+> [!NOTE]
+> I made this setup personally for my old computer, hence why blur and animations are turned off by default.
 
 <img src="images/screenshot/comfy.png" alt="image">
 
 # Installation
 ```
-git clone https://github.com/esperime/hyprcozy.git
-cd hyprcozy
+git clone https://github.com/esperime/dotfiles-hyprland.git
+cd dotfiles-hyprland
 ./install.sh
 ```
 
