@@ -26,7 +26,10 @@ if [ "$proceed" = 'y' ]; then
 	# Transfer configs
 	SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 	cp -r "$SCRIPT_DIR/.config/." ~/.config/
-
+	
+	mkdir ~/.config/hypr/wallpaper
+	cp "$SCRIPT_DIR/images/wallpaper/." ~/.config/hypr/wallpaper/
+	
 	read -p "Include .bashrc? [y/n]: " bashrc
 	read -p "Include .vimrc? [y/n]: " vimrc
 
