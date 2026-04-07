@@ -1,6 +1,3 @@
-> [!NOTE]
-> I made this setup personally for my old computer, hence why blur and animations are turned off by default.
-
 <img src="images/screenshot/comfy.png" alt="image">
 
 # Installation
